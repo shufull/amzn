@@ -15,4 +15,4 @@ $ pip install pyperclip
 
 ## Demo
 
-![result](https://github.com/shufull/media/blob/media/amzn_usage.gif)
+![result](https://raw.githubusercontent.com/shufull/amzn/media/amzn_usage.gif)
